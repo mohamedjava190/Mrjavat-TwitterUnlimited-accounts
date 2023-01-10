@@ -1,0 +1,7 @@
+Powered By : MR-JAVA
+This is a script to register on Twitter using a proxy to register unlimited accounts
+Egypt 7-1 -2023
+Telegram:mrjava190
+Script requirements
+{chromedriver,selenium,os}
+ pip install -r requirements.txt
